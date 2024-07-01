@@ -10,4 +10,5 @@ while (guess != fav && guess != "quit") {
     } else {
         document.write("Wrong choice");
     }
+
 }
